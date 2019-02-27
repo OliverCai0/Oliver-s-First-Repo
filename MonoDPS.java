@@ -11,6 +11,6 @@ public class MonoDPS extends Monster {//Damage based monster class that has high
     }
 
     public String entrance(){
-        return super.entrance() + " --- she's going vegan for the first time";//Uses Monster entrance() in order to print out name and description //hw44#3
+        return super.entrance() + " --- she is going vegan for the first time";//Uses Monster entrance() in order to print out name and description //hw44#3
     }
 }
